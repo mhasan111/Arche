@@ -1,0 +1,56 @@
+
+
+/* header part start */
+#header_part {
+	background: #4bda28;
+}
+/* header part end */
+
+/* menu part start */
+.main_menu ul li a.nav-link:hover {
+	color: #4bda28;
+}
+
+.main_menu ul li a.m_active{
+	color: #4bda28;
+}
+/* menu part end */
+
+/* banner part start */
+.banner_text h4 {
+	color: #4bda28;
+}
+
+.banner_text a::after {
+	background: #4bda28;
+}
+
+.small_slider .slick-current .banner_small {
+	border-color: #4bda28;
+}
+
+/* banner part end */
+
+/* about part start */
+.about_text h4 {
+	color: #4bda28;
+}
+
+.about_counter h3 span {
+	color: #4bda28;
+}
+
+.about_counter::after {
+	background: #4bda28;
+}
+
+.about_text a::after {
+	background: #4bda28;
+}
+/* about part end */
+
+/* service part start */
+.section_head h4 {
+	color: #4bda28;
+}
+/* service part end */
